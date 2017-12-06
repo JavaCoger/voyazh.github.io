@@ -1,0 +1,67 @@
+h1{
+  font-family: "Roboto Condensed", sans-serif;
+  text-align: center;
+  padding-top: 20px;
+}
+
+h6{
+  text-transform: uppercase;
+  font-family: "Roboto Condensed", sans-serif;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+.blue{
+  color: #007FAF;
+}
+
+.orange{
+  color: #F48F00;
+}
+
+.red{
+  color: #C94A38;
+}
+
+nav{
+  width: 100%;
+  background-color: #007FAD;
+}
+
+.mn{
+  display: flex;
+  justify-content: center;
+}
+
+.mn-li{
+  padding: 15px;
+  font-family: "Fira Sans", sans-serif;
+  text-transform: uppercase;
+}
+
+.mn ul{
+  position: absolute;
+  background-color: #006F97;
+  top: 150px;
+  display: none;
+
+}
+
+.mn-li ul li{
+  padding: 1px;
+}
+
+.lili:hover ul{
+  display: block;
+  z-index: 1;
+}
+
+.input{
+  display: inline;
+  float: right;
+  bottom: 33px;
+  position: relative;
+  font-family: "Fira Sans", sans-serif;
+  padding-right: 10px;
+}

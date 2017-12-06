@@ -1,0 +1,14 @@
+.footer{
+  width: 100%;
+  background-color: #007FAD;
+  position: relative;
+  bottom: 19px;
+  text-align: center;
+  padding-top: 7.5px;
+  padding-bottom: 7.5px;
+}
+
+.footer p{
+  font-family: "Fira Sans", sans-serif;
+  color: white;
+}

@@ -1,0 +1,17 @@
+/* Tablet 768px */
+@media screen and (width: 768px){
+  .mn-li{
+    padding: 15px;
+    font-size: 12px;
+  }
+  .input{
+    font-size: 12px;
+    margin-top: 2px;
+  }
+  .cont-news{
+    font-size: 20px;
+  }
+  .cont-text{
+    font-size: 14px;
+  }
+}
